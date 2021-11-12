@@ -1,6 +1,6 @@
 ### IMPORTANT
 
-Be sure to add APPID in src/config/
+Be sure to add APPID in src/config/<br>
 To get APPID, log into https://openweathermap.org/ and get your key
 
 ## Available Scripts
